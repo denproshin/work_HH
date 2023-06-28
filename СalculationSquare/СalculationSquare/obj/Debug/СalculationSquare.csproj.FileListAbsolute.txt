@@ -1,0 +1,8 @@
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\bin\Debug\СalculationSquare.exe.config
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\bin\Debug\СalculationSquare.exe
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\bin\Debug\СalculationSquare.pdb
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\obj\Debug\СalculationSquare.csproj.AssemblyReference.cache
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\obj\Debug\СalculationSquare.csproj.SuggestedBindingRedirects.cache
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\obj\Debug\СalculationSquare.csproj.CoreCompileInputs.cache
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\obj\Debug\СalculationSquare.exe
+C:\Users\dench\OneDrive\Рабочий стол\СalculationSquare\СalculationSquare\obj\Debug\СalculationSquare.pdb
